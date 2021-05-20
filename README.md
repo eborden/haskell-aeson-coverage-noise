@@ -23,4 +23,6 @@ different methods of `ToJSON` deriving and invocation.
 
 ## Example 5
 
+note: This example shows up with 50% coverage, but the `_property` is not highlighted.
+
 ![example 5](example5.png)
