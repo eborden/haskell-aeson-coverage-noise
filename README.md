@@ -3,6 +3,8 @@
 These tests reveal ways in which `hpc` coverage is affected by noise from
 different methods of `ToJSON` deriving and invocation.
 
+![total coverage](total-coverage.png)
+
 ## Example 1
 
 ![example 1](example1.png)
